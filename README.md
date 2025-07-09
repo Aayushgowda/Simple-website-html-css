@@ -1,6 +1,5 @@
-# portfolio-html-css
+# Simple website 
 A clean and responsive personal portfolio website built using only HTML and CSS, showcasing my projects, skills, and contact information.
-# Portfolio Website (HTML & CSS)
 
 This is a simple, clean, and fully responsive personal portfolio website built using only HTML and CSS. It includes sections like Home, About Me, Projects, Skills, and Contact.
 
